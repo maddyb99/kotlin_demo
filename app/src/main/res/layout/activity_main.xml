@@ -32,8 +32,8 @@
 
     <SeekBar
         android:id="@+id/seekBar"
-        android:layout_width="208dp"
-        android:layout_height="46dp"
+        android:layout_width="308dp"
+        android:layout_height="86dp"
         android:max="10"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
